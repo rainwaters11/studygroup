@@ -22,4 +22,9 @@ Follow these guidelines when updating the progress tracker table:
 | [pheobeayo](https://github.com/pheobeayo) | [Execution spec Issue](https://github.com/ethereum/execution-specs/issues/1437) | I’ve created a PR. | https://github.com/ethereum/execution-specs/pull/1443 |
 | [edna-harriet](https://github.com/edna-harriet) | [Lodestar Issue](https://github.com/ChainSafe/lodestar/issues/6632)|I’ve set the development environment specifically docker|On going
 | [Fatima](https://github.com/phertyameen) | [Support better voluntary exit errors](https://github.com/ChainSafe/lodestar/issues/6330) | Forcked the repo and looking through the code to familiarise myself with the stucture and specificc function related to this issue. | In progress
+| [rainwaters11](https://github.com/rainwaters11) | [Document code and style conventions](https://github.com/ethereum/execution-specs/issues/237) | Opened PR #1447 to add STYLE_GUIDE and tighten type-ignore policy (config-only). | [PR #1447](https://github.com/ethereum/execution-specs/pull/1447) |
+| [rainwaters11](https://github.com/rainwaters11) | [Relative reference support](https://github.com/SamWilsn/docc/issues/13) | Drafting plan for `py:` relative references; confirming design with maintainer and setting up local dev. | In progress |
+
+
+
 
